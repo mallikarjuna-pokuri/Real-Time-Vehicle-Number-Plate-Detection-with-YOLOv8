@@ -1,0 +1,6 @@
+filterpy
+scikit0image
+lap==0.4.0
+ultralytics
+easyocr
+torch
