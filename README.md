@@ -48,6 +48,8 @@ pip install -r requirements.txt
 
 # How to Run
 - Ensure you have the necessary dependencies installed (`requirements.txt`).
+- Ensure that you use any video in the current respository with name `sample.mp4` or download it from [here](https://drive.google.com/file/d/1YmHTElM6rh5uBpvaoUYpYTHK2odJkoM6/view?usp=drive_link).
+
 - Run the script (`python main.py`) to write the results to test.csv
 - Run the below script for interpolation of missing data
  ```bash
